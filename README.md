@@ -1,7 +1,8 @@
 # Elena Olekh
- >425-533-8119               pravutiner@gmail.com          Greater Seattle Area
- 
- >[LinkedIn profile](https://www.linkedin.com/in/elena-olekh)
+> Greater Seattle Area  
+> phone no.: 425-533-8119               
+> email: pravutiner@gmail.com          
+>[LinkedIn profile](https://www.linkedin.com/in/elena-olekh)
  
 ## Profile
 
