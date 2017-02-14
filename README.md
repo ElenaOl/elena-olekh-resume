@@ -1,6 +1,8 @@
 # Elena Olekh
  >425-533-8119               pravutiner@gmail.com          Greater Seattle Area
  
+ >[LinkedIn profile](https://www.linkedin.com/in/elena-olekh)
+ 
 ## Profile
 
 Regulatory Affairs Specialist with more than five years of experience in the pharmaceutical and biotechnology industries, implementing global regulatory filing strategies. Education in biotechnical engineering with deep knowledge and practical skills in managing the submission process from start to end, monitoring and tracking information, communicating with colleagues, managers and subject experts for efficiency and accurate reporting. Broad working knowledge of product development plans plus FDA regulations, guidelines and practices.  
