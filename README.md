@@ -6,8 +6,7 @@
  
 ## Profile
 
-Regulatory Affairs Specialist with more than five years of experience in the pharmaceutical and biotechnology industries, implementing global regulatory filing strategies. Education in biotechnical engineering with deep knowledge and practical skills in managing the submission process from start to end, monitoring and tracking information, communicating with colleagues, managers and subject experts for efficiency and accurate reporting. Broad working knowledge of product development plans plus FDA regulations, guidelines and practices.  
-Looking for new learning oportunities and professional growth in computer science.
+Regulatory Affairs Specialist with more than five years of experience in the pharmaceutical and biotechnology industries, implementing global regulatory filing strategies. Education in biotechnical engineering with deep knowledge and practical skills in managing the submission process from start to end, monitoring and tracking information, communicating with colleagues, managers and subject experts for efficiency and accurate reporting. Broad working knowledge of product development plans and FDA regulations, guidelines and practices.  
 
 **Core skills in**: 
 * Project management/coordination
