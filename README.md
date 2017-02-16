@@ -49,10 +49,9 @@ Managed regulatory correspondence with world wide regulatory authorities includi
 * Growth genes detection in Sparus Aurata (Gilt-head bream) from cDNA and expression in varied matured tissues. 
 * mRNA translation to protein in bacteria. 
 * Utilization of various genetic and bioinformatics tools.
-
-Following this research two papers were published: 
-* [Identification of a novel transforming growth factor-β (TGF-β6) gene in fish: regulation in skeletal muscle by nutritional state](http://link.springer.com/article/10.1186/1471-2199-11-37)
-* [Growth/differentiation factor-11: an evolutionary conserved growth factor in vertebrates](http://link.springer.com/article/10.1007/s00427-010-0334-4?no-access=true)
+* Coauthored two research papers: 
+  * [Identification of a novel transforming growth factor-β (TGF-β6) gene in fish: regulation in skeletal muscle by nutritional state](http://link.springer.com/article/10.1186/1471-2199-11-37)
+  * [Growth/differentiation factor-11: an evolutionary conserved growth factor in vertebrates](http://link.springer.com/article/10.1007/s00427-010-0334-4?no-access=true)
 
 ### Education / Continued Development
 **Biological Drugs certificate** provided by _Online Course from School of Pharmacy of Hebrew University of Jerusalem, Israel_ completed at _2015_  
