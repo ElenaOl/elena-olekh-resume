@@ -59,7 +59,7 @@ _Material Labs_ **Water Purification Researcher** during 2009
 *	Water purification from microorganisms using natural non-toxic materials.
 *	Water purifications from heavy metals.
 
-_Israel Oceanographic and Limnological Research Center_ **Gene Research Internship** at  during 2008
+_Israel Oceanographic and Limnological Research Center_ **Gene Research Internship** during 2008
 * Growth genes detection in Sparus Aurata (Gilt-head bream) from cDNA and expression in varied matured tissues. 
 * mRNA translation to protein in bacteria. 
 * Utilization of various genetic and bioinformatics tools.
@@ -67,9 +67,10 @@ _Israel Oceanographic and Limnological Research Center_ **Gene Research Internsh
   * [Identification of a novel transforming growth factor-β (TGF-β6) gene in fish: regulation in skeletal muscle by nutritional state](http://link.springer.com/article/10.1186/1471-2199-11-37)
   * [Growth/differentiation factor-11: an evolutionary conserved growth factor in vertebrates](http://link.springer.com/article/10.1007/s00427-010-0334-4?no-access=true)
 
-### Education / Continued Development
-**Biological Drugs certificate** provided by _Online Course from School of Pharmacy of Hebrew University of Jerusalem, Israel_ completed at _2015_  
-**B.Sc. Biotechnological Engineering** with _Pharmaceutical Technologies Specialization_ from _Ort Braude College, Israel_ completed at _2008_
+## Education / Continued Development
 
+General Assembly, Seattle, WA - **Web Development Immersive** 2017
+Hebrew University, Jerusalem, Israel - **Biological Drugs course** 2015
+Ort Braude College, Israel - **B.Sc., Biotechnological Engineering** 2008
 
 
