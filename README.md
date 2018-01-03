@@ -34,11 +34,11 @@ ready to implement the freshly earned knowledge in web development.
 General Assembly, Seattle, WA - **Web Development Immersive** 2017
 * **Card game - “The fool”** - creating front end game from scratch with best practice of HTML/CSS/JS.
 <https://elenaol.github.io/project1-durakGame/>
-* **Family Grocery application** - implementing best practice of Node.js, Express, Sequelize
+* **Family Grocery application** - implementing best practice of Node.js, Express, Sequelize  
 <https://grocery-app-eo.herokuapp.com/>
-* **Rainy Day** - implementing best practice of React, Node.js, mongoDB
+* **Rainy Day** - implementing best practice of React, Node.js, mongoDB  
 <https://evening-sea-90772.herokuapp.com/>
-* **Math challenge** - implementing best practice of Ruby on Rails, Sequelize
+* **Math challenge** - implementing best practice of Ruby on Rails, Sequelize  
 <https://secret-hollows-15422.herokuapp.com/>
 
 Regulatory Affairs Specialist with more than five years of experience in the pharmaceutical and biotechnology industries, implementing global regulatory filing strategies. Education in biotechnical engineering with deep knowledge and practical skills in managing the submission process from start to end, monitoring and tracking information, communicating with colleagues, managers and subject experts for efficiency and accurate reporting. Broad working knowledge of product development plans and FDA regulations, guidelines and practices.  
