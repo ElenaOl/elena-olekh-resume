@@ -69,8 +69,8 @@ _Israel Oceanographic and Limnological Research Center_ **Gene Research Internsh
 
 ## Education / Continued Development
 
-General Assembly, Seattle, WA - **Web Development Immersive** 2017
-Hebrew University, Jerusalem, Israel - **Biological Drugs course** 2015
-Ort Braude College, Israel - **B.Sc., Biotechnological Engineering** 2008
+General Assembly, Seattle, WA - **Web Development Immersive** 2017  
+Hebrew University, Jerusalem, Israel - **Biological Drugs course** 2015  
+Ort Braude College, Israel - **B.Sc., Biotechnological Engineering** 2008  
 
 
