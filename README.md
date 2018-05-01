@@ -7,7 +7,7 @@
 >[GitHub](github.com/ElenaOl)
  
 ## Summary
-**Full Stack web developer** Creative and dynamic web developer who likes to build engaging and delightful experiences for end-users, and with a strong ability to focus on simplicity, and build clean, maintainable code.
+Creative and dynamic web developer who likes to build engaging and delightful experiences for end-users, and with a strong ability to focus on simplicity, and build clean, maintainable code.
 
 ## Technical skills
 
