@@ -7,21 +7,19 @@
 >[GitHub](github.com/ElenaOl)
  
 ## Summary
-**Full Stack web developer** with a passion for science and an acute attention to details. With previous
-experience in research, project management and regulatory affairs contributed to passion for exploring
-new topics and desire to learn programming languages. With over than five years of experience in the
-pharmaceutical and biotechnology industries, implementing global regulatory filing strategies now
-ready to implement the freshly earned knowledge in web development.
+**Full Stack web developer** Creative and dynamic web developer who likes to build engaging and delightful experiences for end-users, and with a strong ability to focus on simplicity, and build clean, maintainable code.
 
 ## Technical skills
 
-* Project management/Coordination
 * Languages: CSS3, HTML5, JavaScript, Ruby, SQL
 * Frameworks: Bootstrap, Materialize, Express, Node.js, Rails, React
 * Libraries: jQuery
 * Databases: MongoDB, Mongoose, PostgreSQL, Sequelize
 * Design: Web Fonts
 * Other: AJAX, Data Structures, Git, Heroku, HTTP, RESTful Web Services
+
+## Additional skills
+* Project management/Coordination
 * Communication/Collaboration
 * Negotiation/Conflict resolution
 * Highly detail-oriented
@@ -30,7 +28,7 @@ ready to implement the freshly earned knowledge in web development.
 * Love to learn/ Fast learner
 
 
-## Professional Experience
+## Experience
 
 General Assembly, Seattle, WA - **Web Development Immersive** 2017
 * **Card game - “The fool”** - creating front end game from scratch with best practice of HTML/CSS/JS.
@@ -68,7 +66,7 @@ _Israel Oceanographic and Limnological Research Center_ **Gene Research Internsh
   * [Growth/differentiation factor-11: an evolutionary conserved growth factor in vertebrates](http://link.springer.com/article/10.1007/s00427-010-0334-4?no-access=true)
 
 ## Education / Continued Development
-
+Kal academy - **Algorithms and data structures** 2018
 General Assembly, Seattle, WA - **Web Development Immersive** 2017  
 Hebrew University, Jerusalem, Israel - **Biological Drugs course** 2015  
 Ort Braude College, Israel - **B.Sc., Biotechnological Engineering** 2008  
