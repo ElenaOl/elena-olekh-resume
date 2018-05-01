@@ -66,7 +66,7 @@ _Israel Oceanographic and Limnological Research Center_ **Gene Research Internsh
   * [Growth/differentiation factor-11: an evolutionary conserved growth factor in vertebrates](http://link.springer.com/article/10.1007/s00427-010-0334-4?no-access=true)
 
 ## Education / Continued Development
-Kal academy - **Algorithms and data structures** 2018
+Kal academy, Seattle, WA - **Algorithms and data structures** 2018
 General Assembly, Seattle, WA - **Web Development Immersive** 2017  
 Hebrew University, Jerusalem, Israel - **Biological Drugs course** 2015  
 Ort Braude College, Israel - **B.Sc., Biotechnological Engineering** 2008  
